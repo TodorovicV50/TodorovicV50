@@ -3,7 +3,7 @@
 A modern, functional Todo List application built with Vanilla JavaScript. This project demonstrates my understanding of DOM manipulation, data persistence, and state management.
 
 ## 🚀 Live Demo
-👉 [Link zu meinem Portfolio]([https://todorovicv50.github.io/js-todo-list/](https://github.com/TodorovicV50/Portfolio))
+👉 [Link zu meinem Portfolio](https://github.com/TodorovicV50/todolist)
 
 ## ✨ Features
 - **Add & Edit:** Create new tasks or modify existing ones instantly.
