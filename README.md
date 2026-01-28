@@ -1,8 +1,10 @@
 # Hi there, I'm Dominik Todorovic! 👋
 
+
 ### Aspiring Junior Software Developer 🚀
 
 I am a passionate web enthusiast dedicated to building clean, functional, and user-centric applications. Currently, I'm bridging the gap between static layouts and dynamic interfaces by mastering the React ecosystem.
+
 
 
 ### 🛠️ Tech Stack
@@ -18,6 +20,7 @@ I am a passionate web enthusiast dedicated to building clean, functional, and us
 
 
 
+
 ### 🏗 What I'm working on right now
 
 * ☁️ **Weather App:** I am currently developing a weather application using **React** and **OpenWeather API** to practice state management and fetching real-time data.
@@ -26,10 +29,12 @@ I am a passionate web enthusiast dedicated to building clean, functional, and us
 
 
 
+
 ### 📊 GitHub Stats
 * Portfolio - (https://github.com/TodorovicV50/Portfolio) 
 * University website - (https://github.com/TodorovicV50/Doe-University-) 
 * ToDo List - (https://github.com/TodorovicV50/todolist)
+
 
 
 
