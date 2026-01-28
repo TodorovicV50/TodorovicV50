@@ -27,7 +27,9 @@ I am a passionate web enthusiast dedicated to building clean, functional, and us
 
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
++Portfolio - 
+*University website - 
+*ToDo List - 
 
 
 
