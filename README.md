@@ -27,9 +27,9 @@ I am a passionate web enthusiast dedicated to building clean, functional, and us
 
 
 ### 📊 GitHub Stats
-+Portfolio - (https://github.com/TodorovicV50/Portfolio) 
-*University website - (https://github.com/TodorovicV50/Doe-University-) 
-*ToDo List - (https://github.com/TodorovicV50/todolist)
+* Portfolio - (https://github.com/TodorovicV50/Portfolio) 
+* University website - (https://github.com/TodorovicV50/Doe-University-) 
+* ToDo List - (https://github.com/TodorovicV50/todolist)
 
 
 
