@@ -29,7 +29,7 @@ I am a passionate web enthusiast dedicated to building clean, functional, and us
 ### 📊 GitHub Stats
 +Portfolio - 
 *University website - 
-*ToDo List - 
+*ToDo List - (https://github.com/TodorovicV50/todolist)
 
 
 
