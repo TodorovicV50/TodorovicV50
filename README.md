@@ -34,7 +34,7 @@ I am currently at the beginning of my journey, building a solid foundation in Fr
 * University website - (https://github.com/TodorovicV50/Doe-University-) 
 * ToDo List - (https://github.com/TodorovicV50/todolist)
 * Wetter App - (https://github.com/TodorovicV50/Wetter-App)
-* Smart-Fridge - ( 
+* Smart-Fridge - (https://github.com/TodorovicV50/SMART-FRIDGE)
   
 
 
