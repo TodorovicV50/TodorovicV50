@@ -17,7 +17,7 @@ I am currently at the beginning of my journey, building a solid foundation in Fr
 
 * Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript (Learning)
 * Backend: Node.js, Express.js (Basic Routing & APIs)
-* Database: MongoDB (Atlas & Mongoose)
+* Database: Postgres, SQLite3
 * Tools: Git, GitHub, VS Code, NPM
 
 
@@ -33,7 +33,8 @@ I am currently at the beginning of my journey, building a solid foundation in Fr
 * Portfolio - (https://github.com/TodorovicV50/Portfolio) 
 * University website - (https://github.com/TodorovicV50/Doe-University-) 
 * ToDo List - (https://github.com/TodorovicV50/todolist)
-* Wetter App - (https://github.com/TodorovicV50/Wetter-App) 
+* Wetter App - (https://github.com/TodorovicV50/Wetter-App)
+* Smart-Fridge - ( 
   
 
 
